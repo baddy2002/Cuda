@@ -1,4 +1,4 @@
-# My Projects
+# Cuda Projects
 
 Benvenuto nella mia raccolta di progetti relativa a programmazione Cuda o parallela in generale
 
